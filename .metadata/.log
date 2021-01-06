@@ -1,0 +1,219 @@
+!SESSION 2021-01-06 17:14:42.762 -----------------------------------------------
+eclipse.buildId=4.7.0.202006181331-RELEASE
+java.version=11.0.7
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-01-06 17:16:12.261
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-01-06 17:16:12.261
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='org.springframework.ide.eclipse.boot.wizard', id='org.springframework.ide.eclipse.boot.wizard.addStarersSwitchHandler'
+
+!ENTRY org.eclipse.ui 2 0 2021-01-06 17:16:12.962
+!MESSAGE Warnings while parsing the images from the 'org.eclipse.ui.commandImages' extension point.
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-01-06 17:16:12.962
+!MESSAGE Cannot bind to an undefined command: plug-in='com.genuitec.eclipse.theming.ui', id='com.genuitec.myeclipse.help.darktheme.commandid'
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-01-06 17:16:17.431
+!MESSAGE A DevStyle Theme is being activated on this workspace; preparing colors and configuration
+
+!ENTRY com.genuitec.eclipse.theming.ui 1 0 2021-01-06 17:16:17.445
+!MESSAGE DevStyle has archived current color configurations to alternate preferences - will be restored when switching out of the DevStyle Theme
+
+!ENTRY org.eclipse.jface 2 0 2021-01-06 17:16:18.464
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-06 17:16:18.464
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7a087132,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d8c03cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 2 0 2021-01-06 17:16:29.849
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-01-06 17:16:29.849
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='org.springframework.ide.eclipse.boot.wizard', id='org.springframework.ide.eclipse.boot.wizard.addStarersSwitchHandler'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-06 17:16:30.256
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tash'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:20:41.324
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:20:41.327
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:20:41.328
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:20:41.329
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:20:41.330
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:21:21.587
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:28.376
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:28.377
+!MESSAGE Project tacocloud-api already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:28.378
+!MESSAGE Project tacocloud-data already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:28.379
+!MESSAGE Project tacocloud-domain already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:29.075
+!MESSAGE Project tacocloud-security already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:29.076
+!MESSAGE Project tacocloud-web already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:22:29.076
+!MESSAGE Project tacocloud-ui already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:11.916
+!MESSAGE Project taco-cloud already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:11.917
+!MESSAGE Project tacocloud-api already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:11.918
+!MESSAGE Project tacocloud-data already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:11.918
+!MESSAGE Project tacocloud-domain already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:12.354
+!MESSAGE Project tacocloud-restclient already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:12.355
+!MESSAGE Project tacocloud-security already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:12.356
+!MESSAGE Project tacocloud-web already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2021-01-06 17:23:12.357
+!MESSAGE Project tacocloud-ui already exists
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:23:23.466
+!MESSAGE The POM for sia:tacocloud-domain:jar:0.0.8-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:23:36.755
+!MESSAGE The POM for sia:tacocloud-domain:jar:0.0.7-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:16.451
+!MESSAGE The POM for sia:tacocloud-domain:jar:0.0.8-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:16.947
+!MESSAGE The POM for sia:tacocloud-domain:jar:0.0.8-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:17.199
+!MESSAGE The POM for sia:tacocloud-domain:jar:0.0.8-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:17.434
+!MESSAGE The POM for sia:tacocloud-domain:jar:0.0.7-SNAPSHOT is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.977
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.0.0 (node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.978
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.979
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@~2.1.2 (node_modules\watchpack\node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.980
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.981
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules\watchpack-chokidar2\node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.981
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.982
+!MESSAGE npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@^1.2.7 (node_modules\webpack-dev-server\node_modules\chokidar\node_modules\fsevents):
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.983
+!MESSAGE npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.983
+!MESSAGE npm WARN codelyzer@3.2.2 requires a peer of @angular/compiler@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-01-06 17:24:40.984
+!MESSAGE npm WARN codelyzer@3.2.2 requires a peer of @angular/core@^2.3.1 || >=4.0.0-beta <5.0.0 but none was installed.
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2021-01-06 17:25:32.221
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.jdt.apt.pluggable.core 1 1 2021-01-06 17:25:32.485
+!MESSAGE Field value processing of @ConfigurationProperty meta-data is not supported
+
+!ENTRY org.eclipse.ui 2 2 2021-01-06 17:26:05.975
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+!SESSION 2021-01-06 17:26:11.462 -----------------------------------------------
+eclipse.buildId=4.7.0.202006181331-RELEASE
+java.version=11.0.7
+java.vendor=Amazon.com Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_ZA
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2021-01-06 17:29:45.238
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2021-01-06 17:29:45.238
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='org.springframework.ide.eclipse.boot.wizard', id='org.springframework.ide.eclipse.boot.wizard.addStarersSwitchHandler'
+
+!ENTRY org.eclipse.jface 2 0 2021-01-06 17:29:51.235
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-01-06 17:29:51.235
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3f4fd0dc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3723de42,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-01-06 17:29:59.892
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tash'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 2 2021-01-06 17:33:59.766
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
